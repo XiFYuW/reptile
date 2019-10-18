@@ -1,0 +1,21 @@
+uin qq
+nickname 网名
+spacename 空间名
+desc  描述
+signature  签名
+avatar
+sex 2=女 1=男
+animalsign
+constellation  星座
+age 年龄
+islunar
+"birthyear":+"2001","birthday":"04-27",  出生日期
+"country":"中国",province":"河南","city":"商丘",  现居地
+"hco":"中国","hp":"河南","hc":"商丘",  故乡
+"cb":"", 详细地址
+"cco":"","cp":"","cc":"",  公司所在地
+company  公司
+career 职业
+marriage 婚姻
+bloodtype 血型 0 - 其他 1-a 2-b 3-0
+compaddr_type 公司所在地
